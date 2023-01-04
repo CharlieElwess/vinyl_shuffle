@@ -3,11 +3,10 @@
 ###
 
 import pandas as pd
-from IPython import display
 import random
 import streamlit as st
-import requests
-from io import BytesIO
+# import requests
+# from io import BytesIO
 from streamlit_design import get_css
 import base64
 
