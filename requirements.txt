@@ -1,8 +1,7 @@
-discogs_client
-numpy
 pandas
-dotenv
-os
 IPython
 random
+io
+streamlit
 requests
+base64
