@@ -1,0 +1,8 @@
+discogs_client
+numpy
+pandas
+dotenv
+os
+IPython
+random
+requests
