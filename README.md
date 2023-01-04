@@ -1,6 +1,6 @@
 # VINYL SHUFFLE
 
-A simple app to provide a shuffle function for my collection of vinyl records.
+[A simple app to provide a shuffle function for my collection of vinyl records.](https://charlieelwess-vinyl-shuffle-vinyl-shuffle-sl-v0-1-el4e3w.streamlit.app/)
 ![Vinyl Shuffle App Screenshot](vinyl_shuffle_sl_app_screenshot_v1.png)
 I often find myself gravitating toward the same records, so I decided to make a shuffle app to make the decision for me.
 In addition to my own purchases my collection comprises of at least two collections that were kindly donated to me.
