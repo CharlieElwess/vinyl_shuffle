@@ -1,6 +1,5 @@
 pandas
 IPython
-random
 io
 streamlit
 requests
